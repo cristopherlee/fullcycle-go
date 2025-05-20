@@ -5,4 +5,4 @@ Este projeto tem como objetivo exibir a mensagem `Full Cycle Rocks!!` quando a i
 ## Como rodar
 
 ```bash
-docker run seu-usuario/fullcycle
+docker run 301083/fullcycle
